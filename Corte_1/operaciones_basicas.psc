@@ -15,5 +15,4 @@ Algoritmo operaciones_basicas
 	Escribir "El resultado de la resta es:",rest
 	Escribir "El resultado de la multiplicacion es:",mul
 	Escribir "El resultado de la division es:",div
-	
 FinAlgoritmo
