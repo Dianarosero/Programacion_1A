@@ -1,4 +1,4 @@
-Algoritmo operaciones_basicas
+Algoritmo Calc_v1
 	Definir n1,n2 Como Entero
 	Definir sum,rest,mul,div Como Real
 	n1<-4
